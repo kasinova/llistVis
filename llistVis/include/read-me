@@ -1,0 +1,4 @@
+Create your own directory with your user name and make sure to do
+chmod uog+rx *
+to unprotect your directory
+

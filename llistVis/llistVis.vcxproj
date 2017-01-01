@@ -24,7 +24,7 @@
     <ClCompile Include="src\node.cpp" />
     <ClCompile Include="src\textMarker.cpp" />
     <ClCompile Include="src\visibleObj.cpp" />
-    <ClCompile Include="tosser.cpp" />
+    <ClCompile Include="test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\animation.h" />
@@ -40,7 +40,6 @@
     <ClInclude Include="include\textMarker.h" />
     <ClInclude Include="include\util.h" />
     <ClInclude Include="include\visibleObj.h" />
-    <ClInclude Include="tosser.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{9CA80267-AA39-4BA6-928C-F0488CF326FE}</ProjectGuid>

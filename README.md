@@ -1,5 +1,5 @@
 # llistVis
-This project was a proof of concept of the UI capabilities on how to visualize data structures. I wrote this in c++ using the SFML graphics library.
+This project was a proof of concept of the UI capabilities on how to visualize data structures. I wrote this with c++ using the SFML graphics library in Visual Studio 2013.
 
 This design lets the user select options for functions you would typically see a linked list have.
 Once an option is selected, the user is prompted on the console window what information they would like their node to contain.
